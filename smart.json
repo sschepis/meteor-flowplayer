@@ -1,0 +1,8 @@
+{
+  "name": "meteor-flowplayer",
+  "description": "Meteor wrapper for flowplayer free edition",
+  "homepage": "https://github.com/sschepis/meteor-flowplayer",
+  "author": "Sebastian Schepis",
+  "version": "0.1",
+  "git": "https://github.com/sschepis/meteor-flowplayer.git"
+}

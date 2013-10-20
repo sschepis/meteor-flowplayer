@@ -1,4 +1,4 @@
 meteor-flowplayer
-=================
+===============
 
-Meteor wrapper for the free edition of flowplayer
+Meteor wrapper for flowplayer free edition
